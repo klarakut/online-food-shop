@@ -1,6 +1,6 @@
 # online-food-shop
 
-Online food shop is an application, which is using REST interface to maintain a db of products and orders.
+Online food shop is an application, which is using REST interface to maintain a db of products and orders. 
 
 Main functionality:
 
@@ -21,3 +21,5 @@ Main functionality:
 
 Need to be done:
   -> payment
+
+This is a backend application, and I use Postman for functionality testing.
